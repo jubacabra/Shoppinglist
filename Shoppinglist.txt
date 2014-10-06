@@ -5,3 +5,6 @@ Bread
 Onion
 Garlic
 Cuccumber
+Salt
+Pepper
+Curry
