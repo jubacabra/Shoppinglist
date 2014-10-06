@@ -8,6 +8,6 @@ Cuccumber
 Salt
 Pepper
 Curry
-Creme
-Sugar
-Eggs
+"Wok Noodles"
+Say Sauce
+Noodles
