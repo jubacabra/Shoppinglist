@@ -2,3 +2,6 @@ My shopping list
 
 Milk
 Bread
+Onion
+Garlic
+Cuccumber
